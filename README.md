@@ -13,3 +13,5 @@
  - Windows Form Application
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alca1398&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alca1398&hide=contribs,prs)
+<img src=https://img.shields.io/badge/left-right-f39f37>
